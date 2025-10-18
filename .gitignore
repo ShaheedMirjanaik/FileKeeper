@@ -1,0 +1,8 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project specific directories and files
+storage/
+users.json

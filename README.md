@@ -94,9 +94,9 @@ Contributions are welcome! Here's how you can help:
 
 ## 📞 Contact
 
-Your Name - [@ShaheedMirjanaik](https://twitter.com/yourusername)
+Your Name - [@Shaheed Mirjanaik](https://x.com/shaheed_r_m_)
 
-Project Link: [https://github.com/yourusername/FileKeeper](https://github.com/yourusername/FileKeeper)
+Project Link: [https://github.com/ShaheedMirjanaik/FileKeeper](https://github.com/Shaheed Mirjanaik/FileKeeper)
 
 ---
 <div align="center">
